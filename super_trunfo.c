@@ -25,7 +25,7 @@ int main() {
     printf("Populacao: ");
     scanf("%d", &populacao1);
 
-    printf("Area (km²): ");
+    printf("Area (kmÂ²): ");
     scanf("%f", &area1);
 
     printf("PIB: ");
@@ -58,7 +58,7 @@ int main() {
     printf("Populacao: ");
     scanf("%d", &populacao2);
 
-    printf("Area (km²): ");
+    printf("Area (kmÂ²): ");
     scanf("%f", &area2);
 
     printf("PIB: ");
@@ -68,7 +68,7 @@ int main() {
     scanf("%d", &pontos2);
 
 
-    // ================= EXIBIÇÃO =================
+    // ================= EXIBIÃ‡ÃƒO =================
 
     printf("\n\n===== DADOS CADASTRADOS =====\n");
 
@@ -77,7 +77,7 @@ int main() {
     printf("Codigo: %s\n", codigo1);
     printf("Nome da Cidade: %s\n", cidade1);
     printf("Populacao: %d\n", populacao1);
-    printf("Area: %.2f km²\n", area1);
+    printf("Area: %.2f kmÂ²\n", area1);
     printf("PIB: %.2f bilhoes de reais\n", pib1);
     printf("Numero de Pontos Turisticos: %d\n", pontos1);
 
@@ -86,7 +86,7 @@ int main() {
     printf("Codigo: %s\n", codigo2);
     printf("Nome da Cidade: %s\n", cidade2);
     printf("Populacao: %d\n", populacao2);
-    printf("Area: %.2f km²\n", area2);
+    printf("Area: %.2f kmÂ²\n", area2);
     printf("PIB: %.2f bilhoes de reais\n", pib2);
     printf("Numero de Pontos Turisticos: %d\n", pontos2);
 
